@@ -99,7 +99,7 @@ def insertRecords():
 
 #form
 root = tkinter.Tk()
-root.title(string='KV | Admission Form')
+root.title(string='Admission Form')
 root.geometry(newGeometry='500x600')
 
 
