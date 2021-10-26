@@ -23,10 +23,10 @@ def exitAdmPortal():
 
 #form
 root = tkinter.Tk()
-root.title(string='KV Admission Portal')
+root.title(string='Admission Portal')
 root.geometry(newGeometry='500x600')
 
-label_heading = tkinter.Label(master=root,text='KENDRIYA VIDYALAYA',relief='ridge',width=20,font=('bold',20))
+label_heading = tkinter.Label(master=root,text='XYZ SCHOOL',relief='ridge',width=20,font=('bold',20))
 label_heading.place(x=90,y=150)
 
 label_heading = tkinter.Label(master=root,text='ADMISSION PORTAL',relief='groove',width=20,font=('bold',13))
