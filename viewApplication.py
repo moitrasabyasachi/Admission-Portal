@@ -61,7 +61,7 @@ def viewRecords():
 
 #form
 root = tkinter.Tk()
-root.title(string='KV | View Application')
+root.title(string='View Application')
 root.geometry(newGeometry='500x600')
 
 button_home = tkinter.Button(master=root,text='HOME',command=showHomeForm)
