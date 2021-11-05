@@ -1,3 +1,3 @@
 # Admission-Portal
-## Platform: Tkinter, SQLite
+## Technologies used: Python/Tkinter, SQLite
 <img src="ap.png">
